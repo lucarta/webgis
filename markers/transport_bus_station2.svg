@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="-15 107 580 580" style="enable-background:new -15 107 580 580;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
+	.st1{fill:#2D4992;}
+</style>
+<g id="Livello_2">
+	<circle class="st0" cx="287" cy="392" r="236"/>
+</g>
+<g id="svg2" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" inkscape:output_extension="org.inkscape.output.svg.inkscape" sodipodi:docbase="s:\Data\FacilityIcons" sodipodi:docname="transport_bus_station.svg" inkscape:version="0.46" sodipodi:version="0.32">
+	
+		<sodipodi:namedview  guidetolerance="10.0" gridtolerance="10.0" bordercolor="#666666" objecttolerance="10.0" inkscape:cx="242.43387" inkscape:zoom="0.65172414" inkscape:cy="186.81904" pagecolor="#ffffff" id="base" borderopacity="1.0" showgrid="false" inkscape:pageopacity="0.0" inkscape:window-x="-4" inkscape:current-layer="svg2" inkscape:window-y="-4" inkscape:pageshadow="2" inkscape:window-width="1400" inkscape:window-height="1003">
+		</sodipodi:namedview>
+	<defs>
+		
+		
+			<inkscape:perspective  inkscape:vp_z="580 : 290 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_x="0 : 290 : 1" sodipodi:type="inkscape:persp3d" id="perspective3653" inkscape:persp3d-origin="290 : 193.33333 : 1">
+			</inkscape:perspective>
+		
+			<inkscape:perspective  inkscape:vp_z="355.02399 : 217.53 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_x="0 : 217.53 : 1" sodipodi:type="inkscape:persp3d" id="perspective2512" inkscape:persp3d-origin="177.51199 : 145.02 : 1">
+			</inkscape:perspective>
+	</defs>
+	<g id="g2121">
+	</g>
+	<g>
+		<path class="st1" d="M286.3,214.5c0.4,0,0.9,0,1.3,0c0.4,0,0.9,0,1.3,0H286.3z"/>
+		<path class="st1" d="M378.3,230.8c-17.6-7.3-59.7-16.1-90.7-16.3c-31,0.2-73.1,9-90.7,16.3c-17.8,7.4-29.7,14.9-33.4,33.4
+			L150.2,367v141.7h23v22.2c0,27.1,39.6,27.1,39.6,0v-22.2H286h0.2h76.1v22.2c0,27.1,39.7,27.1,39.7,0v-22.2h23V367.1l-13.4-102.8
+			C408,245.6,396.2,238.2,378.3,230.8z M231.1,240.4h55.2h57.8c11.1,0,11.1,16.7,0,16.7h-58h-55C220,257.2,220,240.4,231.1,240.4z
+			 M193.1,464.3c-10.5,0-19.1-8.5-19.1-19s8.5-19.1,19.1-19.1s19,8.5,19,19.1C212.1,455.8,203.6,464.3,193.1,464.3z M286.3,377.9
+			H185.4c-9.9,0-12-7.1-11-14.3l10.4-74.6c1.4-9.1,4.5-15,16.3-15h85.1h88c11.8,0,14.9,5.9,16.3,15l10.4,74.6
+			c1,7.2-1.1,14.3-11,14.3H286.3z M382.2,464.3c-10.5,0-19.1-8.5-19.1-19s8.5-19.1,19.1-19.1c10.5,0,19,8.5,19,19.1
+			C401.2,455.8,392.7,464.3,382.2,464.3z"/>
+		<path class="st1" d="M454.2,225.2c-44.6-44.6-103.8-69.1-166.7-69.1s-122.2,24.5-166.7,69.1S51.7,328.9,51.7,391.9
+			s24.5,122.2,69.1,166.7c44.6,44.6,103.8,69.1,166.7,69.1s122.2-24.5,166.7-69.1c44.6-44.6,69.1-103.8,69.1-166.7
+			C523.3,328.9,498.8,269.7,454.2,225.2z M287.5,607c-118.6,0-215.1-96.4-215.1-215.1s96.4-215.1,215.1-215.1
+			c118.6,0,215.1,96.4,215.1,215.1S406.1,607,287.5,607z"/>
+	</g>
+</g>
+</svg>
