@@ -1,2 +1,2 @@
-# webgis_locate
+# webgis
 https://lucarta.github.io/webgis/
