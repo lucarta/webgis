@@ -111,7 +111,7 @@
           var radius = e.accuracy / 2;
 
           current_position = L.marker(e.latlng).addTo(map)
-            .bindPopup("You are within " + radius + " meters from this point").openPopup();
+         
 
           current_accuracy = L.circle(e.latlng, radius).addTo(map);
         }
@@ -125,7 +125,7 @@
 
         // wrap map.locate in a function    
         function locate() {
-          map.locate({setView: true});
+          map.locate({setView: false});
         }
 
         // call locate every 3 seconds... forever
