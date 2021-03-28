@@ -111,6 +111,7 @@
           var radius = e.accuracy / 2;
 
           current_position = L.marker(e.latlng).addTo(map)
+            .bindPopup("You are within " + radius + " meters from this point").closePopup();
          
 
           current_accuracy = L.circle(e.latlng, radius).addTo(map);
